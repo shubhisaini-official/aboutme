@@ -35,7 +35,11 @@ Technology evolves rapidly, but systems thinking, brand strategy, and business j
 | :--- | :--- | :--- |
 | 🐕 **[AI Venture Validation Framework](https://github.com/shubhisaini-official/ai-venture-validation-framework)** | 60-minute venture stress-testing pipeline combining CO-STAR prompting, synthetic user personas, and adversarial AI VC role-playing. | `Gamma` `CO-STAR` `ChatGPT` `D2C PetTech` |
 | 📦 **[eCommerce Catalog Intelligence Engine](#)** *(In Progress)* | Automated catalog enrichment, taxonomy mapping, and brand protection workflows using structured LLM prompts. | `LangChain` `Prompt Architecture` `Catalog Ops` |
-| 📊 **[Predictive Customer Intelligence & Marketing](#)** *(In Progress)* | Segmenting high-LTV customers and predicting churn to drive dynamic cross-sell and targeted marketing strategies. | `Python` `Scikit-Learn` `RFM Analytics` `AI Growth` |
+| 📊 **[QuickCart Pass Funnel Strategy](https://github.com/shubhisaini-official/quickcart-pass-funnel-strategy)** | 5-stage behavioral growth funnel, push notification templates, budget allocation, and A/B testing framework for quick-commerce subscriptions. | `Gamma` `Growth Marketing` `A/B Testing` `Quick-Commerce` |
+
+---
+
+📂 **Looking for all case studies?** [Browse my complete open-source project directory →](https://github.com/shubhisaini-official?tab=repositories)
 
 ---
 
