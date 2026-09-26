@@ -34,7 +34,7 @@ Technology evolves rapidly, but systems thinking, brand strategy, and business j
 | Repository & Focus | Core Problem Solved | AI & Domain Stack |
 | :--- | :--- | :--- |
 | 🐕 **[AI Venture Validation Framework](https://github.com/shubhisaini-official/ai-venture-validation-framework)** | 60-minute venture stress-testing pipeline combining CO-STAR prompting, synthetic user personas, and adversarial AI VC role-playing. | `Gamma` `CO-STAR` `ChatGPT` `D2C PetTech` |
-| 📦 **[eCommerce Catalog Intelligence Engine](#)** *(In Progress)* | Automated catalog enrichment, taxonomy mapping, and brand protection workflows using structured LLM prompts. | `LangChain` `Prompt Architecture` `Catalog Ops` |
+| 📦 **[Snabbit Google Ads Media Plan](https://github.com/shubhisaini-official/snabbit-google-ads-media-plan)** | ₹50 Lakh 6-month full-funnel Google Ads media plan for an instant househelp app during IPL. | `Performance Marketing` `Google Ads` `Media Planning` |
 | 📊 **[QuickCart Pass Funnel Strategy](https://github.com/shubhisaini-official/quickcart-pass-funnel-strategy)** | 5-stage behavioral growth funnel, push notification templates, budget allocation, and A/B testing framework for quick-commerce subscriptions. | `Gamma` `Growth Marketing` `A/B Testing` `Quick-Commerce` |
 
 ---
@@ -49,7 +49,7 @@ A growing collection of reusable, production-tested prompts designed for enterpr
 
 * ⚙️ **[CO-STAR Strategic Pitch Framework](https://github.com/shubhisaini-official/ai-venture-validation-framework#1-structured-prompting-via-co-star):** Structured prompts for rapid venture validation and product discovery.
 * 🛡️ **[Catalog Governance & Taxonomy Prompts](#):** Standardizing messy product data across multi-marketplace seller feeds.
-* 🔍 **[Adversarial Persona Role-Playing](#):** Stress-testing business models against simulated skeptical investors and customer segments.
+* 🔍 **[Adversarial Persona Role-Playing](https://github.com/shubhisaini-official/snabbit-google-ads-media-plan):** Stress-testing business models against simulated skeptical investors and customer segments.
 * 📈 **[AI Marketing Campaign Architecture](#):** Generating multi-touch customer acquisition copy and persona-aligned marketing funnels.
 
 ## 🌱 My Philosophy
