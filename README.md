@@ -35,7 +35,10 @@ Technology evolves rapidly, but systems thinking, brand strategy, and business j
 | :--- | :--- | :--- |
 | 🐕 **[AI Venture Validation Framework](https://github.com/shubhisaini-official/ai-venture-validation-framework)** | 60-minute venture stress-testing pipeline combining CO-STAR prompting, synthetic user personas, and adversarial AI VC role-playing. | `Gamma` `CO-STAR` `ChatGPT` `D2C PetTech` |
 | 📦 **[Snabbit Google Ads Media Plan](https://github.com/shubhisaini-official/snabbit-google-ads-media-plan)** | ₹50 Lakh 6-month full-funnel Google Ads media plan for an instant househelp app during IPL. | `Performance Marketing` `Google Ads` `Media Planning` |
-| 📊 **[QuickCart Pass Funnel Strategy](https://github.com/shubhisaini-official/quickcart-pass-funnel-strategy)** | 5-stage behavioral growth funnel, push notification templates, budget allocation, and A/B testing framework for quick-commerce subscriptions. | `Gamma` `Growth Marketing` `A/B Testing` `Quick-Commerce` |
+| 🐶 **[Landing Page MVP & Lead System](https://github.com/shubhisaini-official/landing-page-mvp-airtable-growth)** | All-in-one No-Code MVP spec with live website URL, CRO copy critique logs & Airtable API lead sync. | `Softr` `Airtable` `CRO Prompts` `Uizard` |
+🥩 **[Subscription & Retention Funnel](https://github.com/shubhisaini-official/at-food-co-subscription-funnel)** | 5-stage Fresh Pass growth funnel, push notification copy matrix, and A/B retention framework. | `Growth Marketing` `A/B Testing` `Funnel Ops` |
+| 🤖 **[AI Lead Automation & Workflow](https://github.com/shubhisaini-official/at-food-co-ai-lead-finder-n8n)** | n8n workflow automating prospect research, OpenAI SDR cold email generation, and Slack alerts. | `n8n` `OpenAI API` `Slack API` `B2B Sales` |
+
 
 ---
 
